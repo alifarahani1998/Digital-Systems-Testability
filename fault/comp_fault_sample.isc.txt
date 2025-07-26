@@ -1,0 +1,10 @@
+test_vector								fault(s)
+-----------		-------------------------------
+  1010    =>	['5fan sa1 & 14fan sa0', ' & 14fan sa1']
+
+  1000    =>	['14fan sa0 & 8fan sa1', ' & 13gat sa1']
+
+  1011    =>	['14fan sa1 & 6gat sa0', ' & 7gat sa0']
+
+  0000    =>	['8fan sa1 & 10gat sa0', ' & 13gat sa1']
+

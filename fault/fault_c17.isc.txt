@@ -1,0 +1,46 @@
+test_vector		fault
+-----------		------
+  d`x100    =>	1gat sa1
+
+  xd`000    =>	2gat sa1
+
+  01d11    =>	3gat sa0
+
+  x1d`11    =>	3gat sa1
+
+  11xx0    =>	8fan sa1
+
+  01x11    =>	9fan sa1
+
+  1x1d`1    =>	6gat sa1
+
+  x11xd`    =>	7gat sa1
+
+  11000    =>	10gat sa1
+
+  00111    =>	11gat sa0
+
+  111x1    =>	11gat sa1
+
+  110xx    =>	14fan sa1
+
+  11001    =>	15fan sa1
+
+  0x100    =>	16gat sa0
+
+  x0x1x    =>	16gat sa1
+
+  11x11    =>	20fan sa1
+
+  1xx10    =>	21fan sa1
+
+  10101    =>	19gat sa1
+
+  10110    =>	22gat sa0
+
+  10011    =>	22gat sa1
+
+  111xx    =>	23gat sa0
+
+  1x011    =>	23gat sa1
+

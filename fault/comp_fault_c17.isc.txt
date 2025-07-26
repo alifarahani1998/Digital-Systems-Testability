@@ -1,0 +1,14 @@
+test_vector								fault(s)
+-----------		-------------------------------
+  11000    =>	['8fan sa1 & 10gat sa1', ' & 14fan sa1']
+
+  00111    =>	11gat sa0 & 16gat sa1
+
+  11111    =>	['11gat sa1 & 20fan sa1', ' & 23gat sa0']
+
+  11001    =>	14fan sa1 & 15fan sa1
+
+  10110    =>	['16gat sa1 & 22gat sa0', ' & 22gat sa0']
+
+  10011    =>	22gat sa1 & 23gat sa1
+

@@ -1,0 +1,32 @@
+test_vector		fault
+-----------		------
+  d`10    =>	a sa1
+
+  xd`0    =>	b sa1
+
+  10d`    =>	c sa1
+
+  101    =>	4fan sa1
+
+  0x0    =>	5fan sa1
+
+  10x    =>	6fan sa1
+
+  1x1    =>	7fan sa1
+
+  111    =>	8fan sa1
+
+  111    =>	9fan sa1
+
+  101    =>	10fan sa1
+
+  x11    =>	11fan sa1
+
+  010    =>	12fan sa1
+
+  0x1    =>	13gat sa1
+
+  x1x    =>	sum sa1
+
+  10x    =>	carry sa1
+

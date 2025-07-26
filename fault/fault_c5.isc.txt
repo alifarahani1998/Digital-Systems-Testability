@@ -1,0 +1,14 @@
+test_vector		fault
+-----------		------
+  d`11    =>	1gat sa1
+
+  1d`1    =>	2gat sa1
+
+  001    =>	3gat sa1
+
+  xxd`    =>	4gat sa1
+
+  0xx    =>	5gat sa0
+
+  10x    =>	5gat sa1
+

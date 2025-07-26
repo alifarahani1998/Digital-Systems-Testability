@@ -1,0 +1,10 @@
+test_vector								fault(s)
+-----------		-------------------------------
+  101    =>	['10fan sa1 & carry sa1', ' & 7fan sa1']
+
+  010    =>	['5fan sa1 & 12fan sa1', ' & sum sa1']
+
+  111    =>	['7fan sa1 & 9fan sa1', ' & 11fan sa1']
+
+  011    =>	['11fan sa1 & 13gat sa1', ' & sum sa1']
+
